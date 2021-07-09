@@ -2,3 +2,13 @@
   font-family: sans-serif;
   text-align: center;
 }
+.header {
+  padding: 10px;
+  background-color: firebrick;
+  color: #fff;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 100;
+}
